@@ -1,7 +1,7 @@
 # Fullstack chat app
 ## Angular for Front and Nodejs for Back
 
-### Install + Dev servers start
+
 1. Clone repository
 `git clone https://github.com/rjsnhk/INT219-LIVE-CHAT.git`
 2. Install node_modules
